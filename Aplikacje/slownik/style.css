@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+html{
+    font-family: 'Oswald', sans-serif;
+}
+#glowny{
+    background-color: limegreen;
+    padding: 100px;
+    text-align: center;
+}
+#pola{
+    background-color: blue;
+    text-align: center;
+    padding-bottom: 10%;
+    padding-top: 5%;
+}
